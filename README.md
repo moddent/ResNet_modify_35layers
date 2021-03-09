@@ -2,11 +2,14 @@
  Customize ResNet with 35 layers and .
  Training on Cifar10.
 ## Architecture
-<p align="left">
-    <img src="/model.png" width="700" height="1100"/>
-</p>
 ### Residual block
-![image](https://user-images.githubusercontent.com/46134191/110458974-596cf880-8107-11eb-94bd-c83a551315ba.png)
+<p align="left">
+    <img src="/Residual block.png" width="400" height="680"/>
+</p>
+
+### Model Overall
+[model](https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign).
+
 
 ## Training
  Run the following script from the directory:
