@@ -5,6 +5,8 @@
 <p align="left">
     <img src="/model.png" width="700" height="1100"/>
 </p>
+### Residual block
+![image](https://user-images.githubusercontent.com/46134191/110458974-596cf880-8107-11eb-94bd-c83a551315ba.png)
 
 ## Training
  Run the following script from the directory:
@@ -24,5 +26,5 @@ Accuracy
 Testing
 
 <p align="left">
-    <img src="/model.png" width="600" height="330"/>
+    <img src="/testing.png" width="600" height="330"/>
 </p>
