@@ -24,5 +24,5 @@ Accuracy
 Testing
 
 <p align="left">
-    <img src="/model.png" width="600" height="330"/>
+    <img src="/testing.png" width="600" height="330"/>
 </p>
