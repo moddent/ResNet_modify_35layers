@@ -3,7 +3,7 @@
  Training on Cifar10.
 ## Architecture
 <p align="left">
-    <img src="/model.png" width="700" height="110000"/>
+    <img src="/model.png" width="700" height="1100"/>
 </p>
 
 ## Training
