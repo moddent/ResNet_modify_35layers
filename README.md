@@ -3,7 +3,7 @@
  Training on Cifar10.
 ## Architecture
 <p align="left">
-    <img src="/model.png" width="700" height="11000"/>
+    <img src="/model.png" width="700" height="110000"/>
 </p>
 
 ## Training
@@ -13,12 +13,12 @@
 ## Result
 Loss
 <p align="left">
-    <img src="/loss.png" width="640" height="780"/>
+    <img src="/loss.png" width="640" height="480"/>
 </p>
 
 Accuracy
 <p align="left">
-    <img src="/acc.png" width="640" height="780"/>
+    <img src="/acc.png" width="640" height="480"/>
 </p>
 
 Testing
