@@ -1,8 +1,8 @@
 # ResNet_35 layers
- Customize ResNet with 35 layers and .
+ Modify ResNet with 35 layers.
  Training on Cifar10.
 ## Architecture
-### Residual block
+### Residual block(full pre-activation)
 <p align="left">
     <img src="/Residual block.png" width="400" height="680"/>
 </p>
