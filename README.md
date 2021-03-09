@@ -8,7 +8,7 @@
 </p>
 
 ### Model Overall
-[model](https://github.com/moddent/ResNet_customize/blob/main/model.png).
+See this [model](https://github.com/moddent/ResNet_customize/blob/main/model.png).
 
 
 ## Training
