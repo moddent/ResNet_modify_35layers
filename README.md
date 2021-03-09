@@ -16,17 +16,17 @@
  
     python cifar10_rec_elu+relu.py
 ## Result
-Loss
+### Loss
 <p align="left">
     <img src="/loss.png" width="640" height="480"/>
 </p>
 
-Accuracy
+### Accuracy
 <p align="left">
     <img src="/acc.png" width="640" height="480"/>
 </p>
 
-Testing
+### Testing
 
 <p align="left">
     <img src="/testing.png" width="600" height="330"/>
